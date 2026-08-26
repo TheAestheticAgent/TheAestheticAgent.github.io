@@ -112,7 +112,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   letter-spacing:-.01em;
 }
 .brand img{ height:34px; width:auto; display:block; }
-.brand span{ color:var(--brass-deep); }
+.brand > span{ color:var(--brass-deep); }
 .nav-toggle{
   display:none;
   background:var(--panel); border:none; border-radius:50%; cursor:pointer;
